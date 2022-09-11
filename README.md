@@ -8,9 +8,6 @@
 - >3. Wait for the dependencies to load
 - >4. Start the project
 - >5. Виберіть своє місто
-
-![](photo\weather.png)
-
 - >6. Find out the weather in your city
 
 Have a good day)
